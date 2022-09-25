@@ -1,0 +1,15 @@
+C:\GeekBrains\Seminar4\HWTask26Hard\bin\Debug\net6.0\HWTask26Hard.exe
+C:\GeekBrains\Seminar4\HWTask26Hard\bin\Debug\net6.0\HWTask26Hard.deps.json
+C:\GeekBrains\Seminar4\HWTask26Hard\bin\Debug\net6.0\HWTask26Hard.runtimeconfig.json
+C:\GeekBrains\Seminar4\HWTask26Hard\bin\Debug\net6.0\HWTask26Hard.dll
+C:\GeekBrains\Seminar4\HWTask26Hard\bin\Debug\net6.0\HWTask26Hard.pdb
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.csproj.AssemblyReference.cache
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.AssemblyInfoInputs.cache
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.AssemblyInfo.cs
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.dll
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\refint\HWTask26Hard.dll
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.pdb
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\HWTask26Hard.genruntimeconfig.cache
+C:\GeekBrains\Seminar4\HWTask26Hard\obj\Debug\net6.0\ref\HWTask26Hard.dll
